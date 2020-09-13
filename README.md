@@ -7,3 +7,10 @@ SURF matching application using OpenCV. SURF features are detected and matched w
    <figcaption>Normal Image - No Rotation</figcaption>
   </figure>
 </p>
+
+<p align="center">
+  <figure>
+  <img  width="800" height="400" alt='SURF Features' src='/results/1normal/outputImage.jpg'/>
+   <figcaption>SURF Features - No Rotation</figcaption>
+  </figure>
+</p>
